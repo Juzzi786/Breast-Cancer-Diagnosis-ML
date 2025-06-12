@@ -2,7 +2,7 @@
 A machine learning pipeline for breast cancer classification using diagnostic data. Implements multiple models and performance metrics.
 # 🎗️ Breast Cancer Prediction using Machine Learning
 
-This project aims to predict breast cancer survival status using clinical and pathological features through multiple machine learning models. The dataset includes patient attributes such as tumor stage, hormone receptor status, lymph node involvement, and survival outcomes.
+This project aims to predict breast cancer survival status using clinical and pathological features through multiple machine learning models. The dataset from the open source platform 'Kaggle' includes patient attributes such as tumor stage, hormone receptor status, lymph node involvement, and survival outcomes.
 
 
 ## 🧠 ML Models Used
